@@ -1,0 +1,41 @@
+
+一、iOS
+
+1. [iOS App 使用GCD导致的卡顿问题](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652561011&idx=1&sn=586e81b1d576782ceffaf537992ed767&chksm=bcd29b7d8ba5126b3a70f21d31ed639a7fdc9ad87baabeb9e7728385a9920ab42b41144fec96&scene=38#wechat_redirect)
+2. [iOS H5 调用微信、支付宝支付无法返回app 解决方法](https://blog.csdn.net/u010945891/article/details/80524596)
+3. [Runtime的应用](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652560958&idx=2&sn=947adb75d677bbb1b51736104c40ab49&chksm=bcd29b308ba5122622d750bd0f4b4cd80ab8d721f71368f73498b5859e7b88c89029b0c7e1cd&scene=38#wechat_redirect)
+4. [iOS工程构建工具开发实践](https://mp.weixin.qq.com/s/qsPGvPkuh6DLgLhlji7QaQ)
+5. [iOS业务组件化框架Axe详解](https://mp.weixin.qq.com/s/7IWr3YBB8Q7bGaA1a08Y8Q)
+6. [iOS逆向基础Hopper+LLDB调试（四）](https://mp.weixin.qq.com/s/vRRTY0x0AwWhyKXK8rxhZA)
+7. [《移动端本地 H5 秒开方案探索与实现》](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653579803&idx=1&sn=0a1f418f628a53e9262b97879f47593b&chksm=84b3b81cb3c4310a175b95264bf74a5be8abf39751ed0b21a353e68e6cf1846db11995bc2fec&scene=38#wechat_redirect)
+8. [iOS中@功能的完整实现](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652560987&idx=1&sn=89cb3548a26029101b432b0f523cb83e&chksm=bcd29b558ba512431639f7c60dfd4cdd2321ce5b566fc1fb40b3dd453604f5ff96208a50cc09&scene=38#wechat_redirect)
+9. [关于NSArray的二三事](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652560987&idx=2&sn=325c68010f565eaeb93072377b5ee248&chksm=bcd29b558ba512431728cf1d6676aa41b359ed516d1e67cf5cff65424f96c64d08f79700b321&scene=38#wechat_redirect)
+10. [iOS本地数据持久化](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652561034&idx=1&sn=bd9e9425caa373bda6a07401cbe37a95&chksm=bcd29b848ba51292775ae7c40f627b0a814a81c2132e79e1c4d94f5ab644163a7f1019e848b4&scene=38#wechat_redirect)
+11. [iOS资讯详情页实现—WebView和TableView混合使用](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652561034&idx=2&sn=b2e1f8f770cde86da6046ef169ad98b5&chksm=bcd29b848ba51292355dbd16c0fce4788d95c79c579a3b0b6fd2757158a6c8fbf6132b3bad61&scene=38#wechat_redirect)
+12. [如何实现AppStore App的自动下载](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652560930&idx=2&sn=9f82530059640295ff478636f5bbb1f8&chksm=bcd29b2c8ba5123aa80f13551652cd0a93a092392f8e9b30e6522a3e2067e244d86bc8ca51ca&scene=38#wechat_redirect)
+13. [数据安全及各种加密算法对比](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652561011&idx=3&sn=4f69e3789ca4cd8c66fb7b909a330968&chksm=bcd29b7d8ba5126bb1185c43bad356951fdcc03e5b4ebaa639e057482ddb6f2cff4457aa9415&scene=38#wechat_redirect)
+
+
+
+
+```
+
+```
+
+
+二、Android
+
+1. [如何优雅地构建易维护、可复用的 Android 业务流程](https://juejin.im/post/5b0a7088f265da0db721cf73)
+2. [Android Flutter内存机制初探](https://mp.weixin.qq.com/s/QxdpQaoPN7z0AvaDZ5OkUg)
+3. [Android轻量级事件通知方案](https://mp.weixin.qq.com/s/5tIAk1zgHbAe1Jvig2RAlg)
+4. [你真的会用Fragment吗？Fragment复用的那些事儿](https://www.jianshu.com/p/31f013df7580?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+5. [《移动端本地 H5 秒开方案探索与实现》](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653579803&idx=1&sn=0a1f418f628a53e9262b97879f47593b&chksm=84b3b81cb3c4310a175b95264bf74a5be8abf39751ed0b21a353e68e6cf1846db11995bc2fec&scene=38#wechat_redirect)
+6. [模块化，组件化傻傻分不清？](https://mp.weixin.qq.com/s?__biz=MzI5ODI5NDkxMw==&mid=2247486919&idx=1&sn=51c87339a490656dccbcb26c4e8562ae&chksm=eca94629dbdecf3f1388d3395798d4ed74cf0f3a61e66f97ff22284b53d7a5844b24ad343be1&scene=38#wechat_redirect)
+7. [Java集合：Set源码详细分析(二)](https://mp.weixin.qq.com/s?__biz=MzI5ODI5NDkxMw==&mid=2247486908&idx=1&sn=d92e4802d7f40429d539de00dd1fc1cd&chksm=eca94652dbdecf4463f4e694e5791e5f753b4ecba06fb09186a270b9e3a5d69c07139d5d0992&scene=38#wechat_redirect)
+8. [Android 串口通信自定义生成so文件](https://blog.csdn.net/oYuDaBaJiao/article/details/80525700)
+9. [了解使用 ConstraintLayout 的性能优势](https://chinagdg.org/2017/09/%E4%BA%86%E8%A7%A3%E4%BD%BF%E7%94%A8-constraintlayout-%E7%9A%84%E6%80%A7%E8%83%BD%E4%BC%98%E5%8A%BF/)
+10. [安卓Socket仿微信 群聊聊天工具 带源码教程](https://blog.csdn.net/u010756046/article/details/80522622)
+11. [Android键盘操作总结](https://juejin.im/post/5b0e77cef265da08e84ad13f)
+12. [刚刚，爱奇艺发布重磅开源项目 Andromeda](https://juejin.im/entry/5b0e0faa6fb9a00a1e01ffc4)
+13. [Kotlin扩展函数与实现机制探索](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653579807&idx=1&sn=bf5db508ebb845382c8388ed60c6ca21&chksm=84b3b818b3c4310ebfb84c74197ba93f14197a53f221f0fbca10e0d991d33fb54f3afbb64de4&scene=38#wechat_redirect)
+
